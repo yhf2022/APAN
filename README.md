@@ -31,4 +31,4 @@ Train a APAN model
 ### Test
 
 Test a APAN model
-run `python test.py`, you can adjust learning parameters in `test.py`
+run `python test.py`, you can adjust test parameters in `test.py`
